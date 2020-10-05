@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Abdullah,
+
+I create platforms that enable people to solve problems, and I bootstrapping my own products.
+
+| Project  | Started  |  Description |  What Happened |
+|:-:|:-:|:-:|:-:|
+|  <a href="https://github.com/ProductHuntTurkey/producthuntturkey" target="_blank">Product Hunt Turkey</a>    | March, 2020 |  -  | Active  |
+
 <!--
 **mrabdullahsahin/mrabdullahsahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
