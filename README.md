@@ -6,8 +6,8 @@ I create platforms that enable people to solve problems, and I bootstrapping my 
 
 | Project  | Started  |  Description |  What Happened | Tech Stack |
 |:-:|:-:|:-:|:-:|:-:|
-|  University Automation    | March, 2017 |  -  | Closed  | Swift, <a href="https://www.sketch.com/" target="_blank">Sketch</a>, <a href="https://zeplin.io/" target="_blank">Zeplin</a>, <a href="https://trello.com/" target="_blank">Trello</a> |
 |  <a href="https://github.com/ProductHuntTurkey/producthuntturkey" target="_blank">Product Hunt Turkey</a>    | March, 2020 |  -  | Active  | HTML, CSS, JavaScript, <a href="https://www.notion.so/" target="_blank">Notion</a>, <a href="https://www.figma.com/" target="_blank">Figma</a> |
+|  University Automation    | March, 2017 |  -  | Closed  | Swift, <a href="https://www.sketch.com/" target="_blank">Sketch</a>, <a href="https://zeplin.io/" target="_blank">Zeplin</a>, <a href="https://trello.com/" target="_blank">Trello</a> |
 
 
 <!--
